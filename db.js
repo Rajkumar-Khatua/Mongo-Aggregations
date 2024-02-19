@@ -3,7 +3,7 @@ import process from "process";
 import dotenv from "dotenv";
 
 dotenv.config();
-
+// Connect to MongoDB 
 const connectDB = async () => {
   try {
     await connect(process.env.MONGO_CONNECTION, {
