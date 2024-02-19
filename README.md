@@ -58,6 +58,7 @@ The server will start running on http://localhost:3000.
 
 ## API Endpoints
 
+Live Deployed API Endpoint can be access here [Here]('https://mongo-aggregations.vercel.app/users/stats')
 User Profiles
 
 - GET `/users:` Fetch all user profiles.
@@ -124,6 +125,12 @@ GET /users/stats
 ]
 ```
 
+## Live Deployed Endpoint
+
+You can access the API via the following live deployed endpoint:
+
+[https://mongo-aggregations.vercel.app/users/stats](https://mongo-aggregations.vercel.app/users/stats)
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improving the application, please fork the repo and create a pull request or open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
@@ -133,3 +140,4 @@ Contributions are welcome! If you have suggestions for improving the application
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/): A resource for web developers.
 - [Stack Overflow](https://stackoverflow.com/): A community of developers helping each other.
+
