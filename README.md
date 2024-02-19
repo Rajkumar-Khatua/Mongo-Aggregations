@@ -58,7 +58,7 @@ The server will start running on http://localhost:3000.
 
 ## API Endpoints
 
-Live Deployed API Endpoint can be access here [Here]('https://mongo-aggregations.vercel.app/users/stats')
+Live Deployed API Endpoint can be accessed [here](https://mongo-aggregations.vercel.app/users/stats).
 User Profiles
 
 - GET `/users:` Fetch all user profiles.
